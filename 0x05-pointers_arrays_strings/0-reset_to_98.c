@@ -2,13 +2,8 @@
 
 
 /**
- * main - check the code
- * reset_to_98 - function with one argument
- * @n: int type pointer n
- *
- * Description: using pointer as parameter to update value it points to 98
- * 
- * Return: Always 0
+* reset_to_98 - update value of int to 98
+ * @n: integer
  */
 void reset_to_98(int *n)
 {
